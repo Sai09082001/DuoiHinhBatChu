@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/tv_high_score"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="10dp"
+        android:paddingEnd="5dp"
+        android:paddingStart="5dp"
+        android:textSize="24dp"
+        android:textColor="@color/pink"
+        android:fontFamily="sans-serif-medium"
+        android:text="B"
+        android:background="@color/sos"
+        android:layout_width="36dp"
+        android:layout_height="36dp"/>
+</LinearLayout>
