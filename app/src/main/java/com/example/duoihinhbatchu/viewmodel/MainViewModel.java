@@ -3,7 +3,6 @@ package com.example.duoihinhbatchu.viewmodel;
 import androidx.lifecycle.ViewModel;
 
 import com.example.duoihinhbatchu.App;
-import com.example.duoihinhbatchu.entity.Question;
 
 import java.util.ArrayList;
 import java.util.List;
