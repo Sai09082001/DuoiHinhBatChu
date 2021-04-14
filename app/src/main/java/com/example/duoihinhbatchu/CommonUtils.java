@@ -1,9 +1,5 @@
 package com.example.duoihinhbatchu;
 
-import com.example.duoihinhbatchu.entity.Guess;
-import com.example.duoihinhbatchu.entity.Question;
-
-import java.util.ArrayList;
 import java.util.List;
 
 public class CommonUtils {

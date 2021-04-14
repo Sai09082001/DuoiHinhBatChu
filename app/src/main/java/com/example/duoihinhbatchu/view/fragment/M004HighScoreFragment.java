@@ -4,19 +4,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
-import android.widget.Toast;
-
-import androidx.recyclerview.widget.GridLayoutManager;
-import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.duoihinhbatchu.OnActionCallBack;
 import com.example.duoihinhbatchu.R;
-import com.example.duoihinhbatchu.entity.Guess;
 import com.example.duoihinhbatchu.viewmodel.HighScoreViewModel;
-
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Random;
 
 public class M004HighScoreFragment extends BaseFragment<HighScoreViewModel>{
     public static final String KEY_BACK_MAIN = "KEY_BACK_MAIN";

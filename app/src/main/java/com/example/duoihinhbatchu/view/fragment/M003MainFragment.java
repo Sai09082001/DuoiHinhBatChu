@@ -3,23 +3,16 @@ package com.example.duoihinhbatchu.view.fragment;
 import android.graphics.BitmapFactory;
 import android.view.LayoutInflater;
 import android.view.View;
-import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
 import com.example.duoihinhbatchu.App;
 import com.example.duoihinhbatchu.OnActionCallBack;
 import com.example.duoihinhbatchu.R;
-import com.example.duoihinhbatchu.entity.Guess;
-import com.example.duoihinhbatchu.entity.Question;
-import com.example.duoihinhbatchu.entity.Result;
 import com.example.duoihinhbatchu.viewmodel.MainViewModel;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Random;
 
 public class M003MainFragment extends BaseFragment<MainViewModel>{
