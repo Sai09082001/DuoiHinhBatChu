@@ -14,4 +14,5 @@ public class Result {
     public void setText(String text) {
         this.text = text;
     }
+
 }

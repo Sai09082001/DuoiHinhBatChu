@@ -4,6 +4,7 @@ public class Guess {
 
     private String text;
 
+    private String abc;
     public Guess(String text) {
         this.text = text;
     }
