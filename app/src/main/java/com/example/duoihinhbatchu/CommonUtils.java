@@ -1,5 +1,7 @@
 package com.example.duoihinhbatchu;
 
+import com.example.duoihinhbatchu.entity.Guess;
+
 import java.util.List;
 
 public class CommonUtils {
